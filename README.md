@@ -15,4 +15,6 @@ What you need for a basic Django environment:
  - Install the requirements
    - pip install -r requirements.txt
  - Run the server
-   - python manage.py runserver 8000
+   - python manage.py runserver 8080
+
+## Run the project on port 8080
